@@ -1,6 +1,6 @@
 # 医疗行业产品经理方法论课程
 
-欢迎来到《PM Methodology for Medical career》系列课程。本系列共 xx 课，从思维框架到实战案例，带你系统构建医疗行业产品经理的核心能力。
+欢迎来到《PM Methodology for Medical Career》系列课程。本系列共 xx 课，从思维框架到实战案例，带你系统构建医疗行业产品经理的核心能力。
 
 
 ## 📚 课程目录
