@@ -8,7 +8,8 @@
 1. [第一课：什么是产品经理](docs/01-intro.md)
 2. [第二课：通用技能](docs/02-general-tech.md)
 3. [第三课：切入时机和关键决策](docs/03-time-to-go.md)
-4. [第四课：市场分析方法论](docs/04-market-analysis.md）
+4. [第四课：市场分析方法论](docs/04-market-analysis.md)
+
 
 
 ---
